@@ -1,7 +1,9 @@
 # Ravenous App - First project created using REACT
 
-> Finds and sorts businesses using YELP API
-> Allows to click on address and redirect to GoogleMaps
+> Finds and sorts businesses using YELP API.
+>   
+> Allows to click on address and redirect to GoogleMaps. 
+> 
 > Allows to click on restaurant's image and redirect to its YELP website
 
 ## Table of Content
