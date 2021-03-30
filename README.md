@@ -8,9 +8,9 @@
 
 ## Table of Content
 
-    -[General info](#general-info)
-    -[Technologies](#technologies)
-    -[Status](#status)
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Status](#status)
 
 ## General info
 
